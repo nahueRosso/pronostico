@@ -1,0 +1,79 @@
+body {
+  background-color: #2f3544;
+
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.input-group {
+  width: 100%;
+
+}
+
+.card {
+max-width: 1280px;
+margin-left: 0px;
+
+}
+
+.card-titulo{
+  position: absolute;
+  padding: 20px;
+  
+ }
+
+ .card-fecha{
+  position: absolute;
+  padding: 15px;
+  margin-top: 280px;
+  font-size: 150%;
+ }
+
+ .card-hora{
+  position: absolute;
+  padding-left: 15px;
+  margin-top: 260px;
+  font-size: 150%;
+ }
+
+ .card-icono {
+  position: absolute;
+  padding-left: 0%;
+  margin-top: 80px;
+
+ }
+
+ .card-temperatura {
+  position: absolute;
+  padding-left: 60%;
+  margin-top: 260px;
+
+ }
+
+.contenedor-generals{
+  background: #9c3;
+}
+
+#algo{
+  background-color: red;
+}
+
+ @media only screen and (max-width: 600px) {
+
+
+
+ }
+
+ 
+
+
+
+
+
+
+
